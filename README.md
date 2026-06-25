@@ -1,2 +1,2 @@
-# prod_cicd_practice_2
+# cicd_practice_2
 
