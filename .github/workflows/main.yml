@@ -14,6 +14,7 @@ on:
       - main
     paths:
       - 'bakehosue_analytics/**'
+      - 'README.md'
 
 jobs:
   deploy:
